@@ -1,0 +1,2 @@
+ Manufacter of device: hp Year of release: 2018 Cost of device: 5000 Color of device: grey Interface: usb Color of print: wb Max format: a4 Speed of print: 400 Square area of scan: 1200 Manufacter of device: hp Year of release: 2017 Cost of device: 20000 Color of device: black Interface: usb Color of print: wb Max format: 2000 Speed of print: 40 Square area of scan: 300
+ Manufacter of device: hp Year of release: 1997 Cost of device: 50000 Color of device: blue Interface: usb Color of print: white Max format: 760 Speed of print: 5000 Square area of scan: 2000

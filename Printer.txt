@@ -1,0 +1,2 @@
+ Manufacter of device: hp Year of release: 2010 Cost of device: 6000 Color of device: white Interface: usb Color of print: wb Max format: 1000 Speed of print: 150
+ Manufacter of device: hp Year of release: 2010 Cost of device: 40000 Color of device: white Interface: usb Color of print: color Max format: 690 Speed of print: 3000

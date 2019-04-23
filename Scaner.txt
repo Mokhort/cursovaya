@@ -1,0 +1,1 @@
+ Manufacter of device: hp Year of release: 2019 Cost of device: 20000 Color of device: white Interface: usb Max format: 20 Square area of scan: 200
